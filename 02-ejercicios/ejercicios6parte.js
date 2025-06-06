@@ -116,7 +116,7 @@ let indice = 1;
 let resultado = 1;
 console.log("Bucle WHILE");
 while   (indice <= 10){
-    console.log(indice + " * 5 = "+ resultado * indice);
+    console.log(indice + " * 5 = "+ 5 * indice);
     indice++;
 }
 
@@ -132,8 +132,6 @@ for (i = 0; i < cadenaN.length; i++){
 }
 
 console.log(invertido.join(''));
-
-
 
 
 // 9. Usa un bucle para generar los primeros 10 números de la secuencia de Fibonacci
